@@ -1,5 +1,5 @@
 # question_generation
-1. Author Name: Shantanu
+1. Author Name: Shantanu S. Shinde
 2. Version No. 2
 3. Research Title: Generating questions using named entity racognition and english language grammar rules
 4. Features : Generates questions given a sentence as input.
